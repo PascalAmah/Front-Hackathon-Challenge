@@ -719,7 +719,7 @@ progress[value]::-webkit-progress-value {
 }
 
 /* Mobile Responsiveness */
-@media (max-width: 390px) {
+@media (max-width: 430px) {
   .shopify-desktop {
     display: none;
   }
