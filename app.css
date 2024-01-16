@@ -825,11 +825,11 @@ progress[value]::-webkit-progress-value {
   }
 
   .collapsible-content {
-    width: 374px;
+    width: auto;
   }
 
   .content-details {
-    width: 358px;
+    width: auto;
     padding: 8px;
   }
 
